@@ -1,6 +1,6 @@
 ---
 title: "The Creative Writing Origin of QAnon"
-date: 2020-01-05T11:36:33+08:00
+date: 2021-01-05T11:36:33+08:00
 draft: false
 featuredImg: ""
 tags: 
@@ -30,7 +30,7 @@ Understanding this origin is essential to forming a rational picture of how the 
 
 As a species, from the earliest days of Palaeolithic campfires, we’ve thrived on stories; for the vast majority of our time of earth, oral tradition has been the primary means through which we preserve, modify and articulate our shared understanding of events and ideas.  This is reflected in the structure of our brain which is poorly optimised for written language analysis, compared with our capacity to communicate orally.  
 
-(This is covered in detail in the excellent ‘[Grasp](https://www.penguinrandomhouse.com/books/546526/grasp-by-sanjay-sarma-with-luke-yoquinto/)’ by Sanjay Sarma and Luke Yoquinto.)
+> (This is covered in detail in the excellent ‘[Grasp](https://www.penguinrandomhouse.com/books/546526/grasp-by-sanjay-sarma-with-luke-yoquinto/)’ by Sanjay Sarma and Luke Yoquinto.)
 
 Whilst our methodology for communicating has evolved rapidly, with technology far outpacing biological adaptation, understanding narrative is still essential to understanding what information really is.  We may have sophisticated written languages and IT tools, but our brains are broadly the same.  Data is nothing without some kind of validity or ‘truth’ assessment – a method with which to weigh it’s likely veracity common in intelligence services. 
 
@@ -41,7 +41,7 @@ Monetised and/or weaponised conspiracy theories threaten our cognitive developme
 
 
 
-Recommended listening:
+### Recommended listening:
 
 An excellent of edition of the British Radio 4 podcast Analysis, presenting a candid and succinct assessment of the current era of conspiracy.
 
@@ -53,11 +53,10 @@ An excellent of edition of the British Radio 4 podcast Analysis, presenting a ca
 
 
 
-On a further note:
+> ### On a further note:
 
-I've taken part in a critical thinking skills training course which involves a lesson and exercise in conspiracy thinking.  Syndicates are split for and against, and presented with conspiracy theories including Flat Earth and 5G.  They have to present an argument to the audience who vote on who seems the most convincing .  
+> I've taken part in a critical thinking skills training course which involves a lesson and exercise in conspiracy thinking.  Syndicates are split for and against, and presented with conspiracy theories including Flat Earth and 5G.  They have to present an argument to the audience who vote on who seems the most convincing .  
 The participants are generally high functioning ‘white collar’ professionals.  But the amateur conspiracy theorists broughthave always brought it home for the win.  Every time. Why?  Science is hard, Crusades are easy.  It’s more natural to form an emotional attachment to emotive sentiments than to cold hard facts.  Of course the audience knew it was baloney, but the lesson regarding how even well educated people can fall for nonsense hits home.  
-
 There’s a palpable silence in the room when it does.
 
 
