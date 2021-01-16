@@ -8,10 +8,11 @@ tags:
   - Facism
   - Capitalism
   - FreeMarket
+  - education
 ---
 
 
-##TRN Initial Assertion:##
+## TRN Initial Assertion:
 
 #Metoo, BLM, and other movements striving for justice within a given social and/or geographic space have been partly consumed by an all-encompassing, homogenous movement (despite its heterogeneous roots) that has become known as Woke culture. Far from creating a new renaissance for equality and meritocracy, this movement is damaging the evolution of human rights by dismissing moderates, liberals and rationalists,  It has been high-jacked or subsumed by a generational groundswell of anxiety addled, predominantly Caucasian, ardent reactionaries. 
 
@@ -27,7 +28,7 @@ Wokeness has noble ambitions, but like most emotive political movements, it has 
 Pragmatic compassion is needed now more than ever or we risk de-volving as culture.
 
 
-###M:###
+### M:
 
 Something that is missing is the fact that a driver for the Woke culture is the fact that our generation and GenZ even more lack patience so people want to see change ASAP and become more aggressive.
 
@@ -35,7 +36,7 @@ The other thing is the mention of objective v. subjective. I get that you are tr
 
 The fact that "social justice movements" are tackling multidisciplinary interconnected problems means that it's too difficult to have purely fact-based discussions and that's why they devolve to appeals to consciousness and ignore rationality. The other consequence is that correlation between a lot of factors gives plenty of opportunities for status quo proponents to handpick "facts" that are contrary to where we should be as a society.  Or (as seen from several conservatives nowadays) gish-gallop to reduce the influence from the other debating side, by reinforcing dated views while putting the onus on them to sift through the crap.
 
-###TRN:###
+### TRN:
 
 I agree.  I believe the wider generational issue is one of a lack of applied behavioural intelligence; I’ll quantify that as a lack of basic behavioural competence such as patience, anxiety management and/or impulse control.  This is exacerbated by the seemingly exponential increase in the speed with which information travels (and the unlimited breadth of audience), correlated with autonomous segmentation due to market oriented algorithms. As a result I think any emotive issue becomes characterised by behaviour adults would not tolerate in children.  
 
@@ -56,7 +57,7 @@ A world run by short term commercial interest will kill us off long before we ca
 
 Also I don't think younger generations aren’t any less intelligent objectively, rather all generations appear less intelligent in practise due to the outdated architecture for regulating communication on any large scale. I think younger generations have it even harder because they lack any firsthand context for being unconnected and forced to debate amongst peers. Private education can compensate for this but state education is typically under the intellectual yolk of Skinners asinine views that amount to bureaucratic narcissism. The toxic heart of this is buoyed by a FreeMarket hegemony pandering to the cult of anxiety that will figuratively devour adult children. No one feels good being made to feel uncomfortable, but it’s an absolute requirement for empathic and effective people.  Without a strong academic architecture to support the critical development of young people, we are in a bad place
 
-###M:###
+### M:
 
 Going back to the bread of that sandwich. It's a mix of expectations, effort and nature which as you rightly point out is playing against the very folk that want to drive change.
 
@@ -70,7 +71,7 @@ It's all combined and exactly as you're saying. The current gen is expected to h
 
 Some of the questions on your original essay still stand though. Being subjective, keeping up with anxiety, wanting to solve issues before the next problem highlighted hours in the future comes along, seem to be consequences rather than root causes. Is there something more fundamental missing to prevent Woke culture from swallowing and distorting the movements created, to address real and fundamental issues in our society as it stands?
 
-###D:###
+### TRN:
 
 The Fascist tendencies of woke culture, however ironic and self -destructive, are the result of the architecture (or lack of) that we have for regulating the flow, consideration and articulation of information, which is partly driven by a short termist exponential growth market algorithm which I truly believe has become an evangelical religion, and largely impervious to questioning/rationalisation.
 
