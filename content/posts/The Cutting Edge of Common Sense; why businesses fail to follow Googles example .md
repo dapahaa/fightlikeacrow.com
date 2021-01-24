@@ -30,13 +30,13 @@ This adult approach to being a human adult enables:
 **Information transparency across the organisation**, which allows higher up Intent to be communicated effectively (everyone has a better grasp of the big picture and where their actions fit into it, and second order effects etc). 
 
 
-**Output orientation vs ‘time served’ metrics**; trying to measure an individuals effective output with regards to quality and quantity is impossible to do effectively on any meaningful level.  Trust your team to know when they need to work out, sleep, and work on their projects.  Some people need to sprint, and you can’t sprint all the time.
+**Output orientation vs ‘time served’ metrics**; trying to measure an individual’s effective output with regards to quality and quantity is impossible to do effectively on any meaningful level.  Trust your team to know when they need to work out, sleep, and work on their projects.  Some people need to sprint, and you cannot sprint all the time.
 
 
 **Recognition of management as an entirely separate facilitative skillset**: **Flat hierarchy**.  People are valued on their merit/competence alone, and facilitators shouldn’t necessarily be paid more than the people they’re facilitating - or be more senior in the hierarchy.  By separating management from seniority as a separate vocational skill path, you get much more effective/actually effective managers, and much more successful teams.
 
 
-On a basic level, what Google does right is discrimination.  Let’s be clear: everything the human brain does is a decision, every decision entails discrimination.  Physically discrimination is an essential component of reality.  Being aware of biases, implicit and otherwise, enables you to ensure that conscious and unconscious discrimination is tailored meritocratically and not bias illogically against people for arbitrary reasons.  If you don’t discriminate fairly and consistently, you end up with tyranny, and all the grimness that entails.  **The ability to create and sustain a meritocratic environment where employees are empowered to be autonomous because they are trusted implicitly, is what puts Google on the cutting edge of common sense.**
+On a basic level, what Google does right is discrimination.  Let’s be clear: everything the human brain does is a decision, every decision entails discrimination.  Physically discrimination is an essential component of reality.  Being aware of biases, implicit and otherwise, enables you to ensure that conscious and unconscious discrimination is tailored meritocratically and not biased illogically against people for arbitrary reasons.  If you don’t discriminate fairly and consistently, you end up with tyranny, and all the grimness that entails.  **The ability to create and sustain a meritocratic environment where employees are empowered to be autonomous because they are trusted implicitly, is what puts Google on the cutting edge of common sense.**
 
   
 To do any of this you need an effective assessment department, and an effective employment offer.  The former in particular normally falls under HR, who are expected to be relatively impartial.  But to do this properly – to select the right candidate who the company can trust implicitly – requires two things: 1. A good enough person(s) to do the selecting (and ensure the process is good enough) and 2. An applicant who’s good enough, because the offer is generous enough.
@@ -58,11 +58,12 @@ There’s an excellent moment in Bocks book where a Google HR employee attends a
 
 Businesses are afraid to discriminate effectively, because they lack the tools to do so; a culture of trust that attracts talent, and a department talented enough to lead the assessment.  Instead they hide behind processes under the guise of ‘fairness’, whilst in reality outsourcing the risk of bias to policies that are asinine in practise and wholly unaccountable. 
 
-To change this, requires addressing the cause: an outdated model of management correlated with seniority, that often results in an ineffective gerontocracy that attracts the new, the desperate and the mediocre.  Unfortunately, this cause is driven by it’s own hierarchy of needs to survive through protecting the status quo.  It requires a herculean effort of empowered change management or decades of evolving cultural trends to change this.  Until then, countless people will be frustrated with the unused bean bag play rooms and dead eyed corporate platitudes they’re forced to endure in lieu of meritocratic change.
+Changing this requires addressing the cause: an outdated model of management correlated with seniority, that often results in an ineffective gerontocracy that attracts the new, the desperate and the mediocre.  Unfortunately, this cause is driven by it’s own hierarchy of needs to survive through protecting the status quo.  It requires a herculean effort of empowered change management or decades of evolving cultural trends to change this.  Until then, countless people will be frustrated with the unused bean bag playrooms and dead eyed corporate platitudes they’re forced to endure in lieu of meritocratic change.
 
-Let’s not forget the corporate solution to a HR problem: spend a lot of money on over priced HR consultants to point out the obvious to a HQ that can subsequently disregard the report.  Employees (who probably have some very good ideas) are further marginalised, the status quo is maintained, and the shareholders/ownership are happy.  Everyone (at HQ) wins.  
+Let’s not forget the corporate solution to a HR problem: spend a lot of money on overpriced HR consultants to point out the obvious to a HQ that can subsequently disregard the report.  Employees (who probably have some very good ideas) are further marginalised, the status quo is maintained, and the shareholders/ownership are happy.  Everyone (at HQ) wins.  
 
 Trust > Autonomy > Increased Output > A Healthier Bottom Line (in terms of happiness *and* cash) 
+
 
 
 
