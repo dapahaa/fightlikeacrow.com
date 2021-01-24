@@ -1,5 +1,5 @@
 ---
-title: "The Cutting Edge of Common Sense; why businesses fail to follow Googles example"
+title: "The Cutting Edge of Common Sense; why businesses fail to follow Google's example"
 date: 2021-01-17T11:36:33+08:00
 draft: false
 featuredImg: ""
@@ -27,13 +27,13 @@ A cursory search of my nearest university for HR/Human Resources texts reveals 1
 This adult approach to being a human adult enables: 
 
 
-Information transparency across the organisation, which allows higher up Intent to be communicated effectively (everyone has a better grasp of the big picture and where their actions fit into it, and second order effects etc). 
+**Information transparency across the organisation**, which allows higher up Intent to be communicated effectively (everyone has a better grasp of the big picture and where their actions fit into it, and second order effects etc). 
 
 
-Output orientation vs ‘time served’ metrics; trying to measure an individuals effective output with regards to quality and quantity is impossible to do effectively on any meaningful level.  Trust your team to know when they need to work out, sleep, and work on their projects.  Some people need to sprint, and you can’t sprint all the time.
+**Output orientation vs ‘time served’ metrics**; trying to measure an individuals effective output with regards to quality and quantity is impossible to do effectively on any meaningful level.  Trust your team to know when they need to work out, sleep, and work on their projects.  Some people need to sprint, and you can’t sprint all the time.
 
 
-Recognition of management as an entirely separate facilitate skillset: **Flat hierarchy**.  People are valued on their merit/competence alone, and facilitators shouldn’t necessarily be paid more than the people they’re facilitating - or be more senior in the hierarchy.  By separating management from seniority as a separate vocational skill path, you get much more effective/actually effective managers, and much more successful teams.
+**Recognition of management as an entirely separate facilitative skillset**: **Flat hierarchy**.  People are valued on their merit/competence alone, and facilitators shouldn’t necessarily be paid more than the people they’re facilitating - or be more senior in the hierarchy.  By separating management from seniority as a separate vocational skill path, you get much more effective/actually effective managers, and much more successful teams.
 
 
 On a basic level, what Google does right is discrimination.  Let’s be clear: everything the human brain does is a decision, every decision entails discrimination.  Physically discrimination is an essential component of reality.  Being aware of biases, implicit and otherwise, enables you to ensure that conscious and unconscious discrimination is tailored meritocratically and not bias illogically against people for arbitrary reasons.  If you don’t discriminate fairly and consistently, you end up with tyranny, and all the grimness that entails.  **The ability to create and sustain a meritocratic environment where employees are empowered to be autonomous because they are trusted implicitly, is what puts Google on the cutting edge of common sense.**
@@ -47,14 +47,18 @@ Companies will often treat their HR departments literally, like *‘human resour
 Are HR to blame? Yes.  Partly.  But they’re not the cause.  That’s the jailor, who has the most to lose in challenging this paradigm: Hierarchical Management.  Specifically, a management process that resembles a bastardisation of medieval aristocracy and arbitrary Soviet career advancement.  
 Management itself is a completely separate vocation.  However, mediocre businesses promote people to management positions based either on their vocational (non-management related) experience, or the fact that they’ve done the job before.  This means managers are often less competent than the people they employ, and barriers are thrown up in the face of younger, far more gifted personnel with a penchant for people skills.  This process creates gerontocracies with meritocratic elements, where time served is spectacularly overvalued as a metric for advancement.
 
-Management like a leadership is a buzzword; useless without extrapolating into a specific context.  In this article, management is the capability to facilitate and guide personnel in completing their assigned tasks.  But it’s hard to have a flat hierarchy when the person involved is not the best person for the job.  Because they’re a great engineer, but they have the interpersonal skills of a menacing Crow.
+It’s hard to have a flat hierarchy when the person involved is not the best person for the job.  Because they’re a great engineer, but they have the interpersonal skills of a menacing Crow.
+
+> Management like leadership is a buzzword; useless without extrapolating and defining in a specific context; if something means 1000 things it’s meaningless in any shared reality.  In this article, let’s define management as the capability to facilitate and guide personnel in completing their assigned tasks.  
 
 This article just focuses on the pre-cursors for an open, transparent culture in which employees are empowered according to their ability, and not governed by an arbitrary record of seniority propped up by outdated metrics such as ‘time served’. We as a species are slavishly addicted to measuring what can easily be quantified vs what needs to be.  Comfort is the enemy; change is difficult and people often focus on short term pain, not the long term gain with respect to changing workplace culture.  
 
 There’s an excellent moment in Bocks book where a Google HR employee attends a conference.  A VP from a rival company approaches her and excitedly exclaims that his organisation will soon be adopting Googles management and HR practices; they are getting a fun room for the employees to hand out in when they’re not working…  The Google exec points out that whilst this is a nice idea, they could try by first focusing on information transparency across the company so all employees feel attached and invested; at Google all meetings are recorded and available to be watched back through the org intranet.  “Oh no” the aghast VP says, they’d never go for that.  The point Bock makes is that all the fun obvious things associated with Google such as spaces to take a nap, are a 2nd order effect from what really matters – trust, empowerment transparency.   
 
 
-Businesses are afraid to discriminate effectively, because they lack the tools to do so; a culture of trust that attracts talent, and department talented enough to lead the assessment.  To change this requires addressing the cause of this is an outdated model of management correlated with seniority, that often results in an ineffective gerontocracy that attracts the new, the desperate and the mediocre.  Unfortunately, this cause is driven by it’s own hierarchy of needs to survive through protecting the status quo.  It requires a herculean effort of empowered change management or decades of evolving cultural trends to change this.  Until then, countless people will be frustrated with the unused bean bag play rooms and dead eyed corporate platitudes they’re forced to endure in lieu of meritocratic change.
+Businesses are afraid to discriminate effectively, because they lack the tools to do so; a culture of trust that attracts talent, and a department talented enough to lead the assessment.  Instead they hide behind processes under the guise of ‘fairness’, whilst in reality outsourcing the risk of bias to policies that are asinine in practise and wholly unaccountable. 
+
+To change this, requires addressing the cause: an outdated model of management correlated with seniority, that often results in an ineffective gerontocracy that attracts the new, the desperate and the mediocre.  Unfortunately, this cause is driven by it’s own hierarchy of needs to survive through protecting the status quo.  It requires a herculean effort of empowered change management or decades of evolving cultural trends to change this.  Until then, countless people will be frustrated with the unused bean bag play rooms and dead eyed corporate platitudes they’re forced to endure in lieu of meritocratic change.
 
 Let’s not forget the corporate solution to a HR problem: spend a lot of money on over priced HR consultants to point out the obvious to a HQ that can subsequently disregard the report.  Employees (who probably have some very good ideas) are further marginalised, the status quo is maintained, and the shareholders/ownership are happy.  Everyone (at HQ) wins.  
 
