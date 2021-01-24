@@ -13,6 +13,24 @@ tags:
 
 
 
+# The Short
+
+Google is known for ingenuity, a talented and happy workforce, and an eye watering bottom line.  Businesses idolise Google, and want to be more like it, lionising it’s tactics and dropping pseudo management jargon filled mission statements like slam poems to indicate this. But despite airs to the contrary, most are unwilling to actually make the basic but fundamental changes necessary: 
+
+**Trusting and empowering employees to be suitably autonomous, recognising management as a separate facilitative vocation, and using ‘HR’ as common sense police; helping the organisation strategically by propagating a culture of transparency and facilitating long term, compassionate investment in people themselves.**
+
+Instead, businesses treat management as a hierarchical position gained through success in an unrelated skillset, but synonymous with increased pay, benefits, prestige and thus, *advancement/progress*.  Even when people are terrible at it.
+
+This anachronistic approach is still commonplace and exacerbated by widespread HR practises that in practice are nothing more than border line autistic spreadsheet management, despite the collective delusion that these businesses treat HR as something other than payroll + *the tick box don’t get sued crew*.    
+
+Employees remain untrusted, unempowered, and non-autonomous.  
+
+But businesses *do* buy play rooms for their employees who are often afraid to be seen using them instead of working.  Who needs a cure to broken legs when you can just keep applying stickie plasters and take a dice roll on the quarters results?
+
+**On the cutting edge of common sense, micromanagement is structurally impossible, because **Management** is dead.  Long live *management*.**
+
+
+# The Long
 
 Google is namedropped when somebody wants to demonstrate success, innovation or an overwhelmingly positive work environment (*we’ll save toxic echo chamber algorithms for another day*).  The name of the company has become a buzzword for marrying financial success with employee satisfaction; [‘Googles strategy for happy employees boosts it’s bottom line’]( https://www.forbes.com/sites/pavelkrapivin/2018/09/17/how-googles-strategy-for-happy-employees-boosts-its-bottom-line/).  It shouldn’t be a surprise to anyone.  In an increasingly globalised world, many companies have good ideas, but the company with the best people is going to come out on top.  Google has mastered HR by not doing *HR*, a technique designed and propagated by the founders and the former Senior Vice President of People Operations, Laszlo Bock.
 
@@ -63,6 +81,7 @@ Changing this requires addressing the cause: an outdated model of management cor
 Let’s not forget the corporate solution to a HR problem: spend a lot of money on overpriced HR consultants to point out the obvious to a HQ that can subsequently disregard the report.  Employees (who probably have some very good ideas) are further marginalised, the status quo is maintained, and the shareholders/ownership are happy.  Everyone (at HQ) wins.  
 
 Trust > Autonomy > Increased Output > A Healthier Bottom Line (in terms of happiness *and* cash) 
+
 
 
 
