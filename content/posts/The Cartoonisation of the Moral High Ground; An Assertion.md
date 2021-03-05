@@ -1,5 +1,5 @@
 ---
-title: The Cartoonisation of the Moral High Ground : An Assertion
+title: The Cartoonisation of the Moral High Ground ; An Assertion
 date: 2021-03-05T11:36:33+12:00
 draft: false
 featuredImg: ""
