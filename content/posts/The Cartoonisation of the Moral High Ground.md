@@ -1,6 +1,6 @@
 ---
-title: The Cartoonisation of the Moral High Ground ; An Assertion
-date: 2021-03-05T11:36:33+12:00
+title: "The Cartoonisation of the Moral High Ground"
+date: 2021-03-01T11:36:33+08:00
 draft: false
 featuredImg: ""
 tags: 
@@ -10,8 +10,6 @@ tags:
   - Women
   - Gender
 ---
-
-
 
 Companies, Governments and 3rd sector organisations are cynically exploiting popularist liberty movements to avoid addressing the most serious fault line in Western societies; gender equality and the re-distribution of care giver equity (ensuring that society is structured to minimise career disruption and thus discrimination due to caregiving). Instead, they address the cartoonish (but monstrous) ‘colour racism’ endemic in America, but which is far less commonplace in other parts of the West compared with cultural xenophobia.  
 Trans rights are another example of a small issue taking precedence over fundamental societal change.  [‘0.6% of adults’]( https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/) in the US identify as transgender. Whilst the heartless discrimination of these people is abhorrent, it’s an economically expedient issue to deal with.  Kick starting an initiative in a white collar Western organisation aimed at tackling colour racism (the idiots flavour of discrimination) or transgender rights is cheap and easy.  For very little investment or change, the organisation manages to achieve the conjurer’s trick of appearing to be an equality champion, an avatar of French revolution naivete, whilst avoiding doing any hard work to address the biggest fault line in our society; gender equality and caregiver equity.  There will always be a luckless Gary in accounting who’s undiagnosed but is on the Autistic Spectrum and falls foul of overt discrimination.  The subsequent witch hunt and re-education campaign is irrefutable proof of the organisations ‘goodness’, and staves off the need to deal with the fact that half the company’s workforce is under paid, under valued and not fairly supported. 
@@ -28,4 +26,3 @@ Until we as species re-evaluate value itself, we will remain in a viral stage of
 Shareholder interest isn’t magically going to do this for us.
 
 This isn’t the 60’s, or even the 00’s.  The #Truth# will no longer get you laid, but a ruthless adherence to speaking truth to power is the only recourse against the cancellers and racists - fascists all.  We can either live in a cartoon whilst the 3 dimensional world around us burns, or we can put the twitter account down, let go of asinine righteous zeal, and do some hard work to address value in our society based on objective reality, not what’s expedient or easy.  Let’s start with transparency, and see how far the tide can take us.
-
