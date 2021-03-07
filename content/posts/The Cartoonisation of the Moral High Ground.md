@@ -10,9 +10,9 @@ tags:
   - Women
   - Gender
 ---
-## BLM, trans gender rights and other moral crusades are being exploited to avoid addressing larger, more pervasive and expensive issues.  The biggest losers in this are Women.
+# BLM, trans gender rights and other moral crusades are being exploited to avoid addressing larger, more pervasive and expensive issues.  The biggest losers in this are Women.
 
-# Morality is often turned into a cartoon
+## Morality is often turned into a cartoon
 
 People enjoy feeling ‘right’. Our brains are pattern recognition sponges that continuously bash the world into a shape resembling our vision of reality, the subjective or, amongst a group of us, the shared reality of the intersubjective.  With only one point of reference it’s difficult for us to analyse our impression of the facts to ascertain whether our version matches the objective, the Truth.  It’s not satisfying to calmly rationalise when all we want to do is have a scrap, whether it’s in 7/11 carpark or on twitter.  
 Because of our lack of patience, or any critical thinking toolkit relative, Morality has always been at risk of being over simplified into it fits a convenient narrative, often polarised into **Right** and **Wrong**.  This turns a multifaceted 3 dimensional problem set into a child’s cartoon.  This process is being exacerbated through social media and our consumption of mass cultural entertainment that scratches our zealous itch.  
