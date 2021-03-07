@@ -10,7 +10,7 @@ tags:
   - Women
   - Gender
 ---
-# BLM, trans gender rights and other moral crusades are being exploited to avoid addressing larger, more pervasive and expensive issues.  The biggest losers in this are Women.
+**BLM, trans gender rights and other moral crusades are being exploited to avoid addressing larger, more pervasive and expensive issues.  The biggest losers in this are Women.**
 
 ## Morality is often turned into a cartoon
 
@@ -20,6 +20,7 @@ Because of our lack of patience, or any critical thinking toolkit relative, Mora
 For example, in the final two Avengers film (spoilers?), half the people in the universe die because the heroes refuse to sacrifice their integrity and kill one of their own.  They are ultimately vindicated. This uncompromisingly *Good* approach to ethical standing is a common trope in mass cultural entertainment in the ego centric West.  An uncompromising, unpragmatic and ultimately unhelpful approach to ethics is effectively the cartoonisation of the Moral High Ground.  It obfuscates any process of compromise to drive change forwards at an achievable pace.  The age of cancel culture was inevitable. 
 
 Morality is a subjective thing.  It is fluid, and subject itself to definition given that it’s meaning can vary wildly.  Context is king.  Morality itself isn’t an ethereally complicated issue so much as one that requires hard work, nuance and patience to understand because it changes and evolves depending upon the stakes and the context, because it is at it’s root an opinion.  It’s far more satisfying to forgo this nuance, over simply an issue and simply rage, levying moral issues into righteous superiority.  It feels good, and if you’re not over encumbered with behavioural intelligence, you’ll never know you’re not a hero.
+
 How does this apply to issues that are genuinely abhorrent?  After all, Trans people should certainly not have to suffer in order to safeguard the sensibilities of religious biggots and idiots.  People should not be unfairly discriminated against because they happen to have a different skin colour.  
 
 As pernicious as these issues are however, the BLM and trans rights movements are examples of minority discrimination movements being cynically exploited to forgo real change in our society.  These causes are vital and require championing, but they should be championed alongside bigger ethical concerns not be permitted to supplant them. 
@@ -74,7 +75,7 @@ The free market algorithm certainly wont address this issue.  There’s no quick
 
 *Take a page out of Norway’s book; publish (publicly) the annual income and tax paid for every individual earning above a certain threshold in the respective country.  The cult of the free market can’t stand up to the gravity of the mass dissent that will follow.  This would even help mitigate legal tax cheating, with the public vilification of celebrities and entrepreneurs who use the tools our governments have given them.*
 
-##How do we move forward as a society in the long term?
+## How do we move forward as a society in the long term?
 
 Value itself must be valued. 
 
